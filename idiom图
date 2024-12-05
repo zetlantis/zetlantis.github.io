@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>文生图展示</head>
+  <body>
+    <h1>
+      <ruby>飞<rt>fēi</rt></ruby>
+      <ruby>鸿<rt>hóng</rt></ruby>
+      <ruby>雪<rt>xué</rt></ruby>
+      <ruby>泥<rt>ní</rt></ruby>
+    </h1>
+    <ul>
+          <li>The bird flies far away,leaving a trail of footprints of itself in the snow.</li>]
+          <li>成语意义：形容远飞鸿雁之志，毫不眷恋雪泥之爪，而是直冲云天、志在四方.</li>
+    </ul>
+    <img src="https://github.com/zetlantis/dump/issues/1#issue-2709201520" alt="飞鸿雪泥生成的图片">
+  </body>
+</html>
